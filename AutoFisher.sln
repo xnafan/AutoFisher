@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoFisher", "AutoFisher\AutoFisher.csproj", "{B0E62413-5DAD-46C3-9610-C57B96ABC219}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0E62413-5DAD-46C3-9610-C57B96ABC219}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0E62413-5DAD-46C3-9610-C57B96ABC219}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0E62413-5DAD-46C3-9610-C57B96ABC219}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0E62413-5DAD-46C3-9610-C57B96ABC219}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3513E7D6-1FB9-4913-A13C-03109E138D39}
+	EndGlobalSection
+EndGlobal
